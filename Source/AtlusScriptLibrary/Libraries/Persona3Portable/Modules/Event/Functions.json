@@ -192,14 +192,17 @@
   {
     "Index": "0x300f",
     "ReturnType": "int",
-    "Name": "EVT_FUNCTION_000F",
-    "Description": "Address: 0x08A5F44C",
+    "Name": "CMM_CHK_LVUP",
+    "Description": "Check if a social link is ready to rank up. Does not check if they are actually available.",
     "Parameters": [
       {
         "Type": "int",
         "Name": "param1",
         "Description": ""
       }
+    ],
+    "Aliases": [
+      "EVT_FUNCTION_000F"
     ]
   },
   {
